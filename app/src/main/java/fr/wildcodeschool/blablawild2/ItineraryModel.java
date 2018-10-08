@@ -41,4 +41,12 @@ public class ItineraryModel {
     public int getPrice() {
         return price;
     }
+
+
+
+    public ItineraryModel() {
+    }
+
+
+
 }
